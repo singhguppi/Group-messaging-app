@@ -6,7 +6,7 @@ class form7:
     def __init__(self):
         self.root8=Tk()
         self.root8.title("ABOUT THIS PROJECT")
-        self.lb19=Label(self.root8,fg="purple",font=('arial',15),text="This project is developed by YATI").pack()
+        self.lb19=Label(self.root8,fg="purple",font=('arial',15),text="This project is developed by GURPREET").pack()
         self.lb20=Label(self.root8,fg="purple",font=('arial',15),text="This project is developed with the help of PYTHON language").pack()
         self.lb21=Label(self.root8,fg="purple",font=('arial',15),text="Thankful to VMM Education ").pack()
         self.root8.mainloop()
